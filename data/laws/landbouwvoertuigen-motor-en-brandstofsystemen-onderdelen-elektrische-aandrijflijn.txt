@@ -1,0 +1,10 @@
+ Onderdelen elektrische aandrijflijn  Artikel 5.8.12a  Actuele regelgeving      De onderdelen van de elektrische aandrijflijn van elektrisch aangedreven of hybride elektrische landbouw- of bosbouwtrekkers: a. moeten deugdelijk zijn; b. moeten deugdelijk zijn bevestigd; c. mogen niet zijn beschadigd; d. mogen geen lekkage vertonen; e. moeten goed zijn afgeschermd, met uitzondering van de kabelset; en f.  moeten goed zijn geïsoleerd.     Wijze van keuren    Toelichting       Wijze van keuren      Print  Visuele controle.     Toelichting      Print   Beschadiging bedrading elektrische hybride voertuigen  Door de fabrikant worden HV (High Voltage) kabels (vaak) oranje
+gekleurd en soms van extra bescherming voorzien. Deze bescherming kan beschadigd
+zijn. Ook komt het voor dat het extra omhulsel gedeeltelijk wordt verwijderd om
+een diagnose te kunnen stellen.
+
+Voor de APK zijn beschadigingen aan het extra omhulsel
+toegestaan, zolang de isolatie direct om de stroomvoerende draden intact is.
+
+Het voorbeeld op de afbeelding hieronder hoeft u daarom niet
+af te keuren.  Controle onderdelen elektrische aandrijving  De eis 'mogen geen lekkage vertonen' geldt alleen voor de accu(’s).          
