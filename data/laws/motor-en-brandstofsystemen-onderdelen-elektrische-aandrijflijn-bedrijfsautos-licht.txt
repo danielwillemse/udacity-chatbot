@@ -1,0 +1,10 @@
+ Onderdelen elektrische aandrijflijn  Artikel 5.3.12a  Actuele regelgeving      De onderdelen van de elektrische aandrijflijn van elektrisch aangedreven of hybride elektrische bedrijfsauto's :  moeten deugdelijk zijn; moeten deugdelijk zijn bevestigd; mogen niet zijn beschadigd; mogen geen lekkage vertonen; moeten goed zijn afgeschermd, met uitzondering van de kabelset; moeten goed zijn geïsoleerd.     Wijze van keuren    Toelichting       Wijze van keuren      Print  Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt.     Toelichting      Print   Controle onderdelen elektrische aandrijving  De eis 'mogen geen lekkage vertonen' geldt alleen voor de accu(’s).  Beschadiging bedrading elektrische hybride voertuigen  Door de fabrikant worden HV (High Voltage) kabels (vaak) oranje
+gekleurd en soms van extra bescherming voorzien. Deze bescherming kan beschadigd
+zijn. Ook komt het voor dat het extra omhulsel gedeeltelijk wordt verwijderd om
+een diagnose te kunnen stellen.
+
+Voor de APK zijn beschadigingen aan het extra omhulsel
+toegestaan, zolang de isolatie direct om de stroomvoerende draden intact is.
+
+Het voorbeeld op de afbeelding hieronder hoeft u daarom niet
+af te keuren.          
